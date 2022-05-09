@@ -1,0 +1,20 @@
+img{
+    width: 200px;
+    height: 200px;
+
+
+}
+.bookstore1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.bookstore1 h2{
+    text-align: center;
+    color: green;
+
+}
+.bookstore1 p{
+    color: red;
+    text-align: center;
+}
